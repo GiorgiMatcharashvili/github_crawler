@@ -1,0 +1,23 @@
+# Web framework for building APIs
+flask==3.0.3
+
+# Tool for building RESTful APIs with Flask
+flask-restful==0.3.10
+
+# WSGI HTTP server for running Flask applications
+gunicorn==22.0.0
+
+# HTTP library for making requests
+requests==2.31.0
+
+# Library for parsing HTML and XML documents
+beautifulsoup4==4.12.3
+
+# Library for object serialization and deserialization
+marshmallow==3.21.2
+
+# Tool for measuring code coverage in Python
+coverage==7.5.1
+
+# Library for managing environment variables
+python-dotenv==1.0.1
